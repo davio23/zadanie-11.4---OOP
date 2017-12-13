@@ -20,3 +20,6 @@ onePlusOne.printInfo();
 
 var  nokia3310 = new Phone("Nokia 3310", 400, "blue", "Series 30+");
 nokia3310.printInfo();
+
+var nokiaN70 = new Phone("Nokia N70", 320, "gray", "Symbian");
+nokiaN70.printInfo();
